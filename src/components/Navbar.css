@@ -1,0 +1,9 @@
+.navbar-container button {
+  color: white;
+}
+.navbar-container a {
+  text-decoration: none;
+}
+.navbar-container button:hover {
+  font-weight: 600;
+}

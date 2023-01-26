@@ -1,0 +1,8 @@
+body {
+  min-height: 100vh;
+  background: hsl(210 30% 24%);
+}
+
+h1 {
+  color: hsl(0 0% 98%);
+}
